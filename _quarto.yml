@@ -1,0 +1,6 @@
+project:
+  title: "plain-text-statistician"
+  type: website
+
+website:
+  favicon: images/favicon.png
